@@ -12,7 +12,7 @@ require('./database.js');
 
 // Server connect
 app.listen(port, function () {
-    console.log('Server started on port ' + port);
+    console.log('Server started on port ${port}');
 });
 
 // View Engine
