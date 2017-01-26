@@ -1,4 +1,4 @@
-const database = require('./config/database.js'),
+const database = require('../config/database.js'),
     db_ip = database.db_ip,
     db_port = database.db_port,
     db_name = database.db_name,
