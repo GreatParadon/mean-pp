@@ -1,16 +1,16 @@
 import {Component, OnInit} from '@angular/core';
 
-import {Hero} from './hero/hero';
-import {HeroService} from './hero/hero.service';
+import {Hero} from './hero';
+import {HeroService} from './hero.service';
 
 @Component({
-    selector: 'app-root',
-    templateUrl: 'hero/hero.component.html',
-    styleUrls: ['hero/hero.component.css'],
+    selector: 'my-heroes',
+    templateUrl: 'hero.component.html',
+    styleUrls: ['hero.component.css'],
     providers: [HeroService]
 })
 
-export class AppComponent implements OnInit {
+export class HeroComponent implements OnInit {
 
     title = 'Tour of Heroes';
     heroes = [];
@@ -32,5 +32,3 @@ export class AppComponent implements OnInit {
     }
 
 }
-
-

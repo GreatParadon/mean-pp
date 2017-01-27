@@ -1,6 +1,6 @@
 const express = require('express'),
     router = express.Router(),
-    Sport = require('../models/user.model.js');
+    Sport = require('../models/sport.model.js');
 
 // Get all sports
 router.get('/sport', (req, res) => {
