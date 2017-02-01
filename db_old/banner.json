@@ -1,0 +1,22 @@
+[
+  {
+    "bid": 1,
+    "image": "/banner/1.jpg"
+  },
+  {
+    "bid": 2,
+    "image": "/banner/2.jpg"
+  },
+  {
+    "bid": 3,
+    "image": "/banner/3.jpg"
+  },
+  {
+    "bid": 4,
+    "image": "/banner/4.jpg"
+  },
+  {
+    "bid": 5,
+    "image": "/banner/5.jpg"
+  }
+]

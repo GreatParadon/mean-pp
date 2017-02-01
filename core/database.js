@@ -20,7 +20,7 @@ console.log('DB connection url => ' + dbFullUrl);
 const mongoose = require('mongoose');
 mongoose.connect(dbFullUrl, (err) => {
     if (err) {
-        console.log('Connection failed ${err}');
+        console.log('Connection failed', err);
     } else {
         console.log('DB Connected');
     }

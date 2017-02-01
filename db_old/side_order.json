@@ -1,0 +1,12710 @@
+[
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 610,
+    "oid": 242,
+    "sid": 27,
+    "amount": 2
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 612,
+    "oid": 243,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 24,
+    "amount": 2
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 25,
+    "amount": 2
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 26,
+    "amount": 2
+  },
+  {
+    "did": 614,
+    "oid": 244,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 616,
+    "oid": 244,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 617,
+    "oid": 244,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 20,
+    "amount": 2
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 625,
+    "oid": 250,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 626,
+    "oid": 251,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 627,
+    "oid": 252,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 628,
+    "oid": 253,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 19,
+    "amount": 2
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 20,
+    "amount": 2
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 630,
+    "oid": 255,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 631,
+    "oid": 256,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 634,
+    "oid": 258,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 635,
+    "oid": 259,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 635,
+    "oid": 259,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 636,
+    "oid": 260,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 638,
+    "oid": 262,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 640,
+    "oid": 263,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 642,
+    "oid": 264,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 643,
+    "oid": 265,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 644,
+    "oid": 266,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 645,
+    "oid": 267,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 647,
+    "oid": 268,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 648,
+    "oid": 269,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 656,
+    "oid": 272,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 660,
+    "oid": 275,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 662,
+    "oid": 277,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 666,
+    "oid": 279,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 668,
+    "oid": 279,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 669,
+    "oid": 280,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 670,
+    "oid": 281,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 670,
+    "oid": 281,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 671,
+    "oid": 282,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 671,
+    "oid": 282,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 672,
+    "oid": 283,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 674,
+    "oid": 285,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 677,
+    "oid": 285,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 678,
+    "oid": 285,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 679,
+    "oid": 287,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 680,
+    "oid": 287,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 681,
+    "oid": 288,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 689,
+    "oid": 296,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 691,
+    "oid": 297,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 701,
+    "oid": 302,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 702,
+    "oid": 303,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 705,
+    "oid": 282,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 706,
+    "oid": 282,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 706,
+    "oid": 282,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 707,
+    "oid": 304,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 708,
+    "oid": 305,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 708,
+    "oid": 305,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 709,
+    "oid": 306,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 710,
+    "oid": 307,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 713,
+    "oid": 309,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 714,
+    "oid": 310,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 716,
+    "oid": 311,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 722,
+    "oid": 315,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 726,
+    "oid": 319,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 727,
+    "oid": 320,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 729,
+    "oid": 321,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 730,
+    "oid": 321,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 731,
+    "oid": 321,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 732,
+    "oid": 321,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 733,
+    "oid": 321,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 737,
+    "oid": 324,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 739,
+    "oid": 326,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 742,
+    "oid": 327,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 743,
+    "oid": 328,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 744,
+    "oid": 329,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 745,
+    "oid": 330,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 747,
+    "oid": 331,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 748,
+    "oid": 332,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 749,
+    "oid": 333,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 749,
+    "oid": 333,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 753,
+    "oid": 337,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 756,
+    "oid": 340,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 757,
+    "oid": 341,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 758,
+    "oid": 342,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 759,
+    "oid": 343,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 766,
+    "oid": 344,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 768,
+    "oid": 346,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 773,
+    "oid": 349,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 774,
+    "oid": 348,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 776,
+    "oid": 349,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 777,
+    "oid": 349,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 778,
+    "oid": 349,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 783,
+    "oid": 352,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 785,
+    "oid": 354,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 786,
+    "oid": 355,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 788,
+    "oid": 357,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 789,
+    "oid": 358,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 791,
+    "oid": 360,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 792,
+    "oid": 361,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 793,
+    "oid": 362,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 795,
+    "oid": 363,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 796,
+    "oid": 364,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 798,
+    "oid": 365,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 803,
+    "oid": 368,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 808,
+    "oid": 372,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 811,
+    "oid": 374,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 812,
+    "oid": 374,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 814,
+    "oid": 376,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 815,
+    "oid": 377,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 818,
+    "oid": 379,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 823,
+    "oid": 383,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 825,
+    "oid": 385,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 826,
+    "oid": 386,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 827,
+    "oid": 387,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 833,
+    "oid": 389,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 835,
+    "oid": 383,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 837,
+    "oid": 390,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 840,
+    "oid": 392,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 843,
+    "oid": 394,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 844,
+    "oid": 395,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 845,
+    "oid": 395,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 849,
+    "oid": 397,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 850,
+    "oid": 398,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 852,
+    "oid": 399,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 853,
+    "oid": 399,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 854,
+    "oid": 400,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 855,
+    "oid": 401,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 857,
+    "oid": 403,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 858,
+    "oid": 404,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 860,
+    "oid": 406,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 861,
+    "oid": 407,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 862,
+    "oid": 407,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 863,
+    "oid": 408,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 864,
+    "oid": 409,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 866,
+    "oid": 409,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 867,
+    "oid": 409,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 868,
+    "oid": 410,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 869,
+    "oid": 410,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 870,
+    "oid": 411,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 871,
+    "oid": 412,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 875,
+    "oid": 414,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 878,
+    "oid": 417,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 881,
+    "oid": 418,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 882,
+    "oid": 419,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 883,
+    "oid": 420,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 20,
+    "amount": 2
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 884,
+    "oid": 421,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 885,
+    "oid": 422,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 891,
+    "oid": 428,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 892,
+    "oid": 428,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 894,
+    "oid": 430,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 895,
+    "oid": 431,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 896,
+    "oid": 431,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 897,
+    "oid": 432,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 898,
+    "oid": 433,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 900,
+    "oid": 435,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 902,
+    "oid": 435,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 903,
+    "oid": 435,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 904,
+    "oid": 435,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 905,
+    "oid": 436,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 908,
+    "oid": 438,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 910,
+    "oid": 440,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 911,
+    "oid": 441,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 913,
+    "oid": 441,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 914,
+    "oid": 442,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 915,
+    "oid": 442,
+    "sid": 26,
+    "amount": 3
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 918,
+    "oid": 443,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 921,
+    "oid": 445,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 924,
+    "oid": 446,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 928,
+    "oid": 448,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 930,
+    "oid": 448,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 932,
+    "oid": 449,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 933,
+    "oid": 449,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 934,
+    "oid": 450,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 935,
+    "oid": 451,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 936,
+    "oid": 452,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 940,
+    "oid": 453,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 941,
+    "oid": 454,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 944,
+    "oid": 455,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 946,
+    "oid": 455,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 951,
+    "oid": 457,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 952,
+    "oid": 455,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 953,
+    "oid": 458,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 954,
+    "oid": 459,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 955,
+    "oid": 459,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 958,
+    "oid": 461,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 959,
+    "oid": 461,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 961,
+    "oid": 461,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 966,
+    "oid": 462,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 23,
+    "amount": 2
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 24,
+    "amount": 2
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 967,
+    "oid": 463,
+    "sid": 27,
+    "amount": 1
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 976,
+    "oid": 465,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 977,
+    "oid": 465,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 983,
+    "oid": 470,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 988,
+    "oid": 471,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 998,
+    "oid": 474,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 999,
+    "oid": 474,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1000,
+    "oid": 474,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1011,
+    "oid": 485,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1011,
+    "oid": 485,
+    "sid": 18,
+    "amount": 2
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1015,
+    "oid": 488,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1016,
+    "oid": 489,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1017,
+    "oid": 490,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1018,
+    "oid": 491,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1019,
+    "oid": 492,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1020,
+    "oid": 493,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 20,
+    "amount": 2
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1021,
+    "oid": 494,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1022,
+    "oid": 495,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1023,
+    "oid": 496,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1024,
+    "oid": 497,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1025,
+    "oid": 498,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1026,
+    "oid": 499,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1027,
+    "oid": 500,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 20,
+    "amount": 2
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1028,
+    "oid": 501,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1031,
+    "oid": 504,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1032,
+    "oid": 505,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1034,
+    "oid": 507,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1037,
+    "oid": 509,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1041,
+    "oid": 426,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1042,
+    "oid": 510,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1043,
+    "oid": 511,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1043,
+    "oid": 511,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1044,
+    "oid": 512,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1052,
+    "oid": 514,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1053,
+    "oid": 515,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 19,
+    "amount": 3
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 20,
+    "amount": 4
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 22,
+    "amount": 2
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1055,
+    "oid": 516,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1061,
+    "oid": 519,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1062,
+    "oid": 508,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1062,
+    "oid": 508,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1062,
+    "oid": 508,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1062,
+    "oid": 508,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1062,
+    "oid": 508,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1063,
+    "oid": 520,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1065,
+    "oid": 520,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1067,
+    "oid": 521,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 18,
+    "amount": 2
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1068,
+    "oid": 521,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 20,
+    "amount": 2
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1069,
+    "oid": 522,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1070,
+    "oid": 522,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1071,
+    "oid": 522,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 21,
+    "amount": 4
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1072,
+    "oid": 522,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 21,
+    "amount": 2
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1073,
+    "oid": 522,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1075,
+    "oid": 523,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1076,
+    "oid": 524,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1081,
+    "oid": 528,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1088,
+    "oid": 535,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1088,
+    "oid": 535,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1091,
+    "oid": 538,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 17,
+    "amount": 2
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1108,
+    "oid": 554,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1109,
+    "oid": 555,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1109,
+    "oid": 555,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1110,
+    "oid": 556,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1110,
+    "oid": 556,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1112,
+    "oid": 557,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1112,
+    "oid": 557,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1112,
+    "oid": 557,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1112,
+    "oid": 557,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1112,
+    "oid": 557,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 25,
+    "amount": 1
+  },
+  {
+    "did": 1114,
+    "oid": 557,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 22,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 1115,
+    "oid": 557,
+    "sid": 26,
+    "amount": 1
+  },
+  {
+    "did": 1116,
+    "oid": 557,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1116,
+    "oid": 557,
+    "sid": 19,
+    "amount": 1
+  },
+  {
+    "did": 1116,
+    "oid": 557,
+    "sid": 20,
+    "amount": 1
+  },
+  {
+    "did": 1116,
+    "oid": 557,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1116,
+    "oid": 557,
+    "sid": 23,
+    "amount": 1
+  },
+  {
+    "did": 1116,
+    "oid": 557,
+    "sid": 24,
+    "amount": 1
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 17,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 18,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 21,
+    "amount": 1
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 26,
+    "amount": 0
+  },
+  {
+    "did": 1123,
+    "oid": 560,
+    "sid": 27,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 17,
+    "amount": 1
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 18,
+    "amount": 1
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 19,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 20,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 21,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 22,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 23,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 24,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 25,
+    "amount": 0
+  },
+  {
+    "did": 1124,
+    "oid": 560,
+    "sid": 26,
+    "amount": 0
+  }
+]

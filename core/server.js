@@ -31,11 +31,10 @@ app.use(bodyParser.urlencoded({
 app.use(morgan('dev'));
 
 // Controllers Group
-controller(route.admin, '/');
-controller(route.api, '/api');
-function controller(arr, type) {
-    for (let i of arr) {
+controller('/', route.admin);
+controller('/api', route.api);
+function controller(type, route) {
+    for (let i of route) {
         app.use(type, require('../controllers/' + i));
-
     }
 }

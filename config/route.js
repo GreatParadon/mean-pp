@@ -1,8 +1,6 @@
 const route = {
     "api": [
-        "user",
-        "restaurant",
-        "sport"
+        "user"
     ],
     "admin": [
         "admin"
