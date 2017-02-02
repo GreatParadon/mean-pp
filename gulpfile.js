@@ -1,31 +1,32 @@
 const gulp = require('gulp-param')(require('gulp'), process.argv),
     nodemon = require('gulp-nodemon'),
-    babel = require('gulp-babel'),
-    uglify = require('gulp-uglify'),
-    del = require('del'),
+    // babel = require('gulp-babel'),
+    // uglify = require('gulp-uglify'),
+    // del = require('del'),
     replace = require('gulp-replace'),
+    fs = require('fs'),
     rename = require("gulp-rename");
 
 gulp.task('make', function (controller, model) {
-    if (controller) {
-        let indexController = controller.indexOf("/");
-        let subStrController = controller.substr(indexController + 1);
-        let subStrFolder = controller.substr(0, indexController);
-        gulp.src(['core/blueprint/controller.js'])
-            .pipe(rename(subStrController + '.js'))
-            .pipe(replace('Controller', subStrController))
-            .pipe(gulp.dest('controllers/' + subStrFolder));
-        console.log('Create ' + controller + ' Success');
-    } else {
-        let indexModel = model.indexOf("/");
-        let subStrModel = model.substr(indexModel + 1);
-        let subStrFolder = model.substr(0, indexModel);
-        gulp.src(['core/blueprint/model.js'])
-            .pipe(rename(subStrModel + '.js'))
-            .pipe(replace('Model', subStrModel))
-            .pipe(gulp.dest('models/' + subStrFolder));
-        console.log('Create ' + model + ' Success');
-    }
+    const make = (controller) ? controller : model;
+    const makeStr = (controller) ? 'controller' : 'model';
+    const indexChar = make.indexOf("/");
+    const file = make.substr(indexChar + 1);
+    const folder = make.substr(0, indexChar);
+
+    const extraFile = makeStr + 's/' + make + '.js';
+
+    fs.stat('extraFile', function (err, stat) {
+        if (err || !stat) {
+            console.log(make + ' already exist! Pls,try other name');
+        } else {
+            gulp.src(['core/blueprint/' + makeStr + '.js'])
+                .pipe(rename(file + '.js'))
+                .pipe(replace(makeStr.toUpperCase(), file))
+                .pipe(gulp.dest(makeStr + 's/' + folder));
+            console.log('Generate ' + makeStr + ' Success');
+        }
+    });
 });
 
 gulp.task('serve', function () {
