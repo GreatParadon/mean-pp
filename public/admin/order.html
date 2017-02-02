@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TrendMeal Order Manager</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="https://www.gstatic.com/firebasejs/3.6.2/firebase.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+        // See https://firebase.google.com/docs/web/setup#project_setup for how to
+        // auto-generate this config
+        var config = {
+            apiKey: "AIzaSyDCUBjZTtP4muRCD3j8iWSSK1jqM7P10r4",
+            authDomain: "trendmeal-55b8e.firebaseapp.com",
+            databaseURL: "https://trendmeal-55b8e.firebaseio.com",
+            storageBucket: "trendmeal-55b8e.appspot.com",
+            messagingSenderId: "243733989388"
+        };
+
+        firebase.initializeApp(config);
+
+        var database = firebase.database();
+        var messaging = firebase.messaging();
+
+        messaging.requestPermission()
+            .then(function () {
+                console.log('Have Permission');
+                return messaging.getToken();
+            })
+            .then(function (token) {
+                console.log(token);
+            })
+            .catch(function () {
+                console.log('Error Occur');
+            });
+
+        messaging.onMessage(function (payload) {
+            console.log('onMessage: ', payload);
+        });
+
+
+    </script>
+</head>
+<body>
+<div id="header"><a id="report" class="right" target="_blank"
+                    href="report">History</a></div>
+<script src="js/classes.js"></script>
+<script src="js/order.js"></script>
+<div id="login">
+    <h3>Please Log In</h3><br>
+    Username : <input id="user" type="text"/><br><br>
+    Password : <input id="pass" type="password"/><br><br><br>
+    <a class="button" onclick="login()">Log In</a>
+</div>
+</body>
+</html>

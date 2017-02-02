@@ -1,0 +1,406 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Medium.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+*::-moz-focus-inner {
+    border: 0;
+}
+
+html, body {
+    font-family: 'Roboto';
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #fffef8;
+    overflow: hidden;
+}
+
+#header {
+    width: 100%;
+    height: 70px;
+    background: #DF242B url(../images/logo.png) no-repeat 10px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+#header-grey {
+    position: absolute;
+    width: 100%;
+    height: 70px;
+    background: #607d8b url(../images/logo.png) no-repeat 10px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+}
+
+#grid {
+    width: 100%;
+    height: 100%;
+}
+
+#container {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+#logs {
+    width: 250px;
+    max-width: 250px;
+    height: 100%;
+    background: #eee;
+    border-right: 1px solid #ccc;
+    overflow-y: scroll;
+}
+
+.button, #report {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    color: #fff;
+    background: #DF242B;
+    margin: 12px 12px 12px 0;
+    padding: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 4px;
+    outline: none;
+    cursor: pointer;
+}
+
+.right {
+    position: absolute;
+    right: 0;
+}
+
+.menu-dish {
+    top: 22px;
+}
+
+.button:hover, #report:hover {
+    color: #DF242B;
+    background: #fff;
+    /*border:1px solid rgba(255,106,34,0.5);*/
+}
+
+@keyframes scaling {
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes scaling {
+    100% {
+        opacity: 1;
+    }
+}
+
+.order {
+    position: relative;
+    width: 100%;
+    min-height: 69px;
+    border-bottom: 1px solid #ddd;
+    opacity: 0;
+    transition: 0.5s;
+    -webkit-animation: scaling 0.5s forwards;
+    animation: scaling 0.5s forwards;
+}
+
+.order.padded {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.order td {
+    position: relative;
+}
+
+.order .menu {
+    width: 100px;
+}
+
+.order h3 {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.5);
+    margin: 4px 15px 6px 15px;
+}
+
+.order .main, .order .side {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.order .main {
+    position: relative;
+    vertical-align: middle;
+    display: inline-block;
+    min-height: 50px;
+    margin: 0 10px 10px 15px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.order .main .image {
+    position: absolute;
+    vertical-align: middle;
+    display: inline-block;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+}
+
+.order .main input[type="checkbox"] {
+    vertical-align: middle;
+    display: inline-block;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+}
+
+.order .main h4 {
+    font-family: 'Roboto';
+    position: relative;
+    font-size: 18px;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0 5px 0 10px;
+
+}
+
+/*.order .main h4:after{
+	vertical-align:middle;
+	display:inline-block;
+	width:10px;
+	height:70px;
+	border-right:1px solid #ddd;
+	content:'';
+}*/
+
+.order .main .amount.checked {
+    color: #b71c1c;
+    background: #b71c1c;
+}
+
+.order .main .amount.checked:before {
+    color: #fff;
+    margin-left: 10px;
+    content: '✕';
+}
+
+.order .side-group {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 5px;
+    padding-left: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+}
+
+.order .side {
+    vertical-align: top;
+    display: inline-block;
+    height: 36px;
+    margin: -7px 3px 3px 3px;
+}
+
+.order .side p {
+    font-size: 14px;
+    display: inline-block;
+}
+
+.order .side p:after {
+    content: '';
+}
+
+.order .side .amount {
+    font-weight: bold;
+    line-height: 24px;
+    text-align: center;
+    width: 24px;
+    height: 24px;
+    margin: 0 3px;
+    border-radius: 50%;
+    color: #fff;
+    background: #ffab00;
+    border-radius: 50%;
+}
+
+.order button {
+    position: absolute;
+    right: 20px;
+    top: 12px;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 0;
+    text-align: center;
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+    margin: 20px;
+    color: #64dd17;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    border-radius: 50%;
+    transition: 0.2s;
+}
+
+.order button.clickable:hover {
+    right: 10px;
+    top: 2px;
+    width: 90px;
+    height: 90px;
+    margin: 0;
+    color: #fff;
+    background: #64dd17;
+    cursor: pointer;
+}
+
+.order button.cancel {
+    color: #DF242B;
+}
+
+.order button.clickable.cancel:hover {
+    color: #fff;
+    background: #DF242B;
+}
+
+/*****FORM******/
+.form {
+    font-family: 'Roboto';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.95);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    z-index: 11;
+    display: none;
+}
+
+.form h3 {
+    font-size: 22px;
+    margin: 30px 20px 20px 20px;
+}
+
+.form div {
+    position: relative;
+}
+
+.form label, .form img {
+    margin: 10px 20px;
+    border-radius: 4px;
+}
+
+.form img {
+    max-height: 100px;
+}
+
+.form div fieldset {
+    margin: 0 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+}
+
+.form div fieldset div {
+    display: inline-block;
+}
+
+.form div input[type="text"] {
+    font-size: 16px;
+    width: 100%;
+    padding: 5px 20px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.form .text {
+    position: relative;
+    width: auto;
+    margin: 0 20px;
+}
+
+.form .right {
+    position: relative;
+    float: right;
+    right: 10px;
+}
+
+.form textarea {
+    min-width: 100%;
+    max-width: 100%;
+    height: 200px;
+}
+
+.form .button.cancel {
+    color: #DF242B;
+    background: #fff;
+}
+
+.form .button.cancel:hover, .form .button.save:hover, #login .button:hover {
+    border: 1px solid rgba(223, 36, 43, 0.5);
+}
+
+.form .disable {
+    font-weight: bold;
+    color: #f00;
+}
+
+#login {
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    z-index: 100;
+}
+
+#login * {
+    margin: 0 auto;
+}
+
+#login h3 {
+    margin-top: 150px;
+}
+
+#login input[type="text"], #login input[type="password"] {
+    font-size: 16px;
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+

@@ -1,64 +1,37 @@
-const gulp = require('gulp'),
+const gulp = require('gulp-param')(require('gulp'), process.argv),
     nodemon = require('gulp-nodemon'),
     babel = require('gulp-babel'),
     uglify = require('gulp-uglify'),
     del = require('del'),
-    jsObfuscate = require('gulp-javascript-obfuscator'),
-    Cache = require('gulp-file-cache');
+    replace = require('gulp-replace'),
+    rename = require("gulp-rename");
 
-let cache = new Cache();
-
-gulp.task('default', ['js', 'view', 'client']);
-
-gulp.task('clear', () => {
-    del(['.gulp-cache', 'dist']);
-});
-
-gulp.task('js', () => {
-    let stream = gulp.src(['src/**', '!src/views/**', '!src/client/**'])
-        .pipe(cache.filter()) // remember files
-        .pipe(babel({
-            presets: ['es2015']
-        }))
-        .pipe(uglify())
-        .pipe(jsObfuscate())
-        .pipe(cache.cache()) // cache them
-        .pipe(gulp.dest('dist'));
-
-    return stream; // important for gulp-nodemon to wait for completion
-});
-
-gulp.task('view', () => {
-    let stream = gulp.src('src/views/**')
-        .pipe(cache.filter()) // remember files
-        .pipe(cache.cache()) // cache them
-        .pipe(gulp.dest('dist/views'));
-
-    return stream;
-});
-
-gulp.task('client', () => {
-    let stream = gulp.src('src/client/**')
-        .pipe(cache.filter()) // remember files
-        .pipe(cache.cache()) // cache them
-        .pipe(gulp.dest('dist/client'));
-    return stream;
-});
-
-gulp.task('watch', ['default'], function () {
-    let stream = nodemon({
-        script: 'dist/server.js' // run ES5 code
-        , watch: 'src' // watch ES2015 code
-        , tasks: ['default'] // compile synchronously onChange
-    });
-
-    return stream
+gulp.task('make', function (controller, model) {
+    if (controller) {
+        let indexController = controller.indexOf("/");
+        let subStrController = controller.substr(indexController + 1);
+        let subStrFolder = controller.substr(0, indexController);
+        gulp.src(['core/blueprint/controller.js'])
+            .pipe(rename(subStrController + '.js'))
+            .pipe(replace('Controller', subStrController))
+            .pipe(gulp.dest('controllers/' + subStrFolder));
+        console.log('Create ' + controller + ' Success');
+    } else {
+        let indexModel = model.indexOf("/");
+        let subStrModel = model.substr(indexModel + 1);
+        let subStrFolder = model.substr(0, indexModel);
+        gulp.src(['core/blueprint/model.js'])
+            .pipe(rename(subStrModel + '.js'))
+            .pipe(replace('Model', subStrModel))
+            .pipe(gulp.dest('models/' + subStrFolder));
+        console.log('Create ' + model + ' Success');
+    }
 });
 
 gulp.task('serve', function () {
     nodemon({
         script: 'core/server.js'
         , ext: 'js html ts'
-        , env: { 'NODE_ENV': 'development' }
+        , env: {'NODE_ENV': 'development'}
     })
 });

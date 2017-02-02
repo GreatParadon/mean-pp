@@ -3,25 +3,26 @@ const express = require('express'),
     path = require('path'),
     bodyParser = require('body-parser'),
     morgan = require('morgan'),
-    route = require('../config/route'),
-    port = 3000,
+    port = 4000,
     app = express();
 
-// Import Database
+// Database Connection
 require('./database.js');
 
 // Server connect
-app.listen(port, function () {
-    console.log('Server started on port ' + port);
+app.listen(port, () => {
+    console.log(`Server started on port ${port}`);
 });
 
 // View Engine
-app.set('views', path.join(__dirname, '../dist'));
+const viewsPath = path.join(__dirname, '../public');
+app.set('views', viewsPath);
 app.set('view engine', 'ejs');
 app.engine('html', require('ejs').renderFile);
 
 // Set static folder
-app.use(express.static(path.join(__dirname, '../dist')));
+app.use(express.static(viewsPath));
+app.use(express.static(viewsPath + '/admin/js'));
 
 // Body parser middleware
 app.use(bodyParser.json());
@@ -30,11 +31,6 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(morgan('dev'));
 
-// Controllers Group
-controller('/', route.admin);
-controller('/api', route.api);
-function controller(type, route) {
-    for (let i of route) {
-        app.use(type, require('../controllers/' + i));
-    }
-}
+// Define Route
+app.use('/api', require('../routes/api'));
+app.use('/', require('../routes/admin'));

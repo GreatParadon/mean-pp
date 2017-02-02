@@ -6,8 +6,8 @@ const database = require('../config/database.js'),
     db_pass = database.db_pass;
 
 let dbFullUrl = 'mongodb://';
-const dbUrlWithDBName = db_ip + ':' + db_port + '/' + db_name;
-const dbUserPwd = db_user + ':' + db_pass + '@';
+const dbUrlWithDBName = `${db_ip}:${db_port}/${db_name}`;
+const dbUserPwd = `${db_user}:${db_pass}@`;
 
 if (!db_user) {
     dbFullUrl += dbUrlWithDBName;
@@ -15,9 +15,10 @@ if (!db_user) {
     dbFullUrl += dbUserPwd + dbUrlWithDBName;
 }
 
-console.log('DB connection url => ' + dbFullUrl);
+console.log(`DB connection url => ${dbFullUrl}`);
 
 const mongoose = require('mongoose');
+mongoose.Promise = global.Promise;
 mongoose.connect(dbFullUrl, (err) => {
     if (err) {
         console.log('Connection failed', err);

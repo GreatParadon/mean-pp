@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TrendMeal Menu Manager</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script src="http://cdn.tinymce.com/4/tinymce.min.js"></script>
+	</head>
+	<body>
+		<div id="header">
+			<div class="right menu-dish">
+				<a class="button" onclick="former.setData(2);">+ Side Dish</a>
+				<a class="button" onclick="former.setData(1);">+ Main Dish</a>
+			</div>
+		</div>
+		<script src="js/classes.js"></script>
+		<script src="js/menu.js"></script>
+		<div id="login">
+			<h3>Please Log In</h3><br>
+			Username : <input id="user" type="text"/><br><br>
+			Password : <input id="pass" type="password"/><br><br><br>
+			<a class="button" onclick="login()">Log In</a>
+		</div>
+	</body>
+</html>

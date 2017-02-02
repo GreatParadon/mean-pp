@@ -1,0 +1,19 @@
+@font-face {
+	font-family:'Roboto';
+	src: url('http://46.101.135.176:8000/admin/fonts/Roboto-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family:'Roboto';
+	src: url('http://46.101.135.176:8000/admin/fonts/Roboto-Medium.ttf');
+	font-weight: bold;
+	font-style: normal;
+}
+*::-moz-focus-inner{
+	border:0;
+}
+
+*{
+	font-family:'Roboto';
+}
