@@ -9,4 +9,5 @@ router.get('/admin/:sublink', (req, res) => {
 //Admin Login
 router.post('/admin/access', AdminController.login);
 
+
 module.exports = router;
