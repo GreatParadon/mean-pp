@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const MainSchema = new Schema({
-    mid: Number,
+    mid: String,
     title: String,
     detail: String,
     producer: String,

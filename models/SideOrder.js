@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const SideOrderSchema = new Schema({
-    did: Number,
-    oid: Number,
-    sid: Number,
+    did: String,
+    oid: String,
+    sid: String,
     amount: Number
 });
 

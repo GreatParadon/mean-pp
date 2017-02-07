@@ -2,8 +2,8 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const AddressSchema = new Schema({
-    aid: Number,
-    uid: Number,
+    aid: String,
+    uid: String,
     address: String
 });
 

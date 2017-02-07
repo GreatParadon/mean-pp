@@ -2,8 +2,8 @@ const express = require('express'),
     router = express.Router(),
     AdminController = require('../controllers/Admin/AdminController');
 
-router.get('/admin/:sublink', (req, res) => {
-    res.render('admin/' + req.params.sublink + '.html');
+router.get('/admin/:page', (req, res) => {
+    res.render('admin/' + req.params.page + '.html');
 });
 
 //Admin Login

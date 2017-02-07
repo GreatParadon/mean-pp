@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const MealOrderSchema = new Schema({
-    oid: Number,
-    uid: Number,
-    aid: Number,
+    oid: String,
+    uid: String,
+    aid: String,
     buyer: String,
     type: Number,
     timestamp: {type: Date, default: Date.now}

@@ -2,9 +2,9 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const MainOrderSchema = new Schema({
-    did: Number,
-    oid: Number,
-    mid: Number,
+    did: String,
+    oid: String,
+    mid: String,
     type: Number
 });
 

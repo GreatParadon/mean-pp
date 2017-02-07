@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const SideSchema = new Schema({
-    sid: Number,
+    sid: String,
     title: String,
     detail: String,
     producer: String,

@@ -1,4 +1,13 @@
 const User = require('../models/User');
+// const MealOrder = require('../models/MealOrder');
+// const MainOrder = require('../models/MainOrder');
+// const Main = require('../models/Main');
+// const Side = require('../models/Side');
+// const SideOrder = require('../models/SideOrder');
+// const Admin = require('../models/Admin');
+// const Address = require('../models/Address');
+// const Estimote = require('../models/Estimote');
+// const Banner = require('../models/Banner');
 
 class UserController {
 
@@ -111,6 +120,46 @@ class UserController {
                     res.json({uid: user._id});
             });
     }
+
+    // ChangeUid(req, res) {
+    //     MealOrder.find()
+    //         .select('_id oid')
+    //         .exec((err, users) => {
+    //             for (let user of users) {
+    //                 SideOrder.update(
+    //                     {oid: user.oid},
+    //                     {$set: {oid: user._id}},
+    //                     {multi: true},
+    //                     (err, update) => {
+    //                         if (err) res.json({error: 'Failed'});
+    //                         console.log(update);
+    //                     });
+    //             }
+    //             res.json({success: 'Success'});
+    //         })
+    // }
+    //
+    // dump(req, res) {
+    //     let json = require('../db_old/estimote.json');
+    //     json.map(collection => {
+    //         Estimote.create(collection,
+    //             (err, collection) => {
+    //                 if (err || !collection) res.json({error: 'Registration failed'});
+    //             });
+    //     });
+    //     res.json({uid: 'ผ่าน'});
+    //
+    // }
+    // collection(req, res) {
+    //     Side.find()
+    //         .select('_id sid')
+    //         .lean()
+    //         .exec(
+    //             (err, collection) => {
+    //                 res.json(collection);
+    //             }
+    //         )
+    // }
 
 }
 

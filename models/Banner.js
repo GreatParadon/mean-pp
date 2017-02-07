@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const BannerSchema = new Schema({
-    bid: Number,
+    bid: String,
     image: String,
 });
 
