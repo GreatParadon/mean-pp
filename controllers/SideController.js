@@ -1,5 +1,5 @@
-const Main = require('../models/Main');
-const Side = require('../models/Side');
+import Main from '../models/Main';
+import Side from '../models/Side';
 
 class SideController {
 

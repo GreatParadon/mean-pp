@@ -1,12 +1,12 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 const MealOrderSchema = new Schema({
     oid: String,
     uid: String,
-    aid: String,
+    aid: {type: String, ref: 'Address'},
     buyer: String,
-    type: Number,
+    type: String,
     timestamp: {type: Date, default: Date.now}
 });
 

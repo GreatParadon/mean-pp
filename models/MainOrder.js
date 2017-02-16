@@ -1,10 +1,10 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 const MainOrderSchema = new Schema({
     did: String,
-    oid: String,
-    mid: String,
+    oid: {type: String, ref: 'MealOrder'},
+    mid: {type: String, ref: 'Main'},
     type: Number
 });
 

@@ -1,9 +1,10 @@
-const express = require('express'),
-    router = express.Router(),
-    UserController = require('../controllers/UserController'),
-    BannerController = require('../controllers/BannerController'),
-    SideController = require('../controllers/SideController'),
-    OrderService = require('../controllers/OrderController');
+import express from 'express';
+import UserController from '../controllers/UserController';
+import BannerController from '../controllers/BannerController';
+import SideController from '../controllers/SideController';
+import OrderController from '../controllers/OrderController';
+
+const router = express.Router();
 
 //======= User =======//
 // Register User
@@ -29,13 +30,17 @@ router.post('/getid', UserController.getUserIdByCode);
 
 //======= Order =======//
 // Get All
-router.post('/getall', OrderService.getAll);
+router.post('/getall', OrderController.getAll);
 // Get Side
 router.post('/getside', SideController.getSide);
 // Add to Cart
-router.post('/addtocart', OrderService.addToCartService);
-router.post('/delitem', OrderService.deleteItem);
-router.post('/delall', OrderService.deleteAll);
+router.post('/addtocart', OrderController.addToCartService);
+// Delete Item
+router.post('/delitem', OrderController.deleteItem);
+// Delete All
+router.post('/delall', OrderController.deleteAll);
+// Get Cart
+router.post('/getcart', OrderController.getCart);
 
 //======= Banner =======//
 // Get Banner

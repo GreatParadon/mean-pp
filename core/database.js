@@ -1,5 +1,6 @@
-const database = require('../config/database.js'),
-    db_ip = database.db_ip,
+import database from '../config/database.js';
+import chalk from 'chalk';
+const db_ip = database.db_ip,
     db_port = database.db_port,
     db_name = database.db_name,
     db_user = database.db_user,
@@ -15,17 +16,15 @@ if (!db_user) {
     dbFullUrl += dbUserPwd + dbUrlWithDBName;
 }
 
-console.log(`DB connection url => ${dbFullUrl}`);
+console.log(chalk.green(`DB connection url => ${dbFullUrl}`));
 
-const mongoose = require('mongoose');
+import mongoose from'mongoose';
 mongoose.Promise = global.Promise;
 mongoose.connect(dbFullUrl, (err) => {
     if (err) {
-        console.log('Connection failed', err);
+        console.log(chalk.red('Connection failed', err));
     } else {
-        console.log('DB Connected');
+        console.log(chalk.green('DB Connected'));
     }
 });
-const db = mongoose.connection;
-
-module.exports = db;
+mongoose.connection;

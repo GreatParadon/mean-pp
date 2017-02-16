@@ -1,10 +1,10 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 const SideOrderSchema = new Schema({
     did: String,
-    oid: String,
-    sid: String,
+    oid: {type: String, ref: 'MealOrder'},
+    sid: {type: String, ref: 'Side'},
     amount: Number
 });
 

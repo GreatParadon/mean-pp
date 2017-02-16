@@ -1,4 +1,4 @@
-const Banner = require('../models/Banner');
+import Banner from '../models/Banner';
 
 class BannerController {
 
