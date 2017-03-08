@@ -104,28 +104,47 @@ const OrderController = () => {
                 .sort('-_id')
                 .lean()
                 .exec((err, mealOrder) => {
-                        console.log('Log Meal Order', err, mealOrder);
+                    console.log('Log Meal Order', err, mealOrder);
+                    if (err) res.json({error: 'Getting cart failed'});
+                    else {
+                        mealOrder.orders = [];
+                        MainOrder.find({oid: mealOrder._id})
+                            .select('_id oid mid type')
+                            .exists('mid')
+                            .sort('-_id')
+                            .populate({
+                                path: 'mid',
+                                select: '_id title image price sidedish',
+                                match: {disable: 0},
+                                options: {lean: true}
+                            })
+                            .lean()
+                            .exec((err, mainOrder) => {
+                                // console.log('Log Main Order', err, mainOrder);
+                                if (err) res.json({error: 'Getting cart failed'});
+                                else {
 
-                        if (err) res.json({error: 'Getting cart failed'});
-                        else {
-                            mealOrder.orders = [];
-                            MainOrder.find({oid: mealOrder._id})
-                                .select('_id oid mid type')
-                                .exists('mid')
-                                .sort('-_id')
-                                .populate({
-                                    path: 'mid',
-                                    select: '_id title image price sidedish',
-                                    match: {disable: 0},
-                                    options: {lean: true}
-                                })
-                                .lean()
-                                .exec((err, mainOrder) => {
-                                        console.log('Log Main Order', err, mainOrder);
-                                        if (err) res.json({error: 'Getting cart failed'});
-                                        else {
-                                            mainOrder.map(mo => {
-                                                // for (let mo in mainOrder) {
+                                    const moLength = mainOrder.length;
+                                    let moCount = 1;
+
+                                    mainOrder.map(mo => {
+
+                                        SideOrder.find()
+                                            .where('oid').equals(mo.oid)
+                                            .where('amount').gt(0)
+                                            .select('_id sid did amount')
+                                            // .exists('sid')
+                                            .sort('-_id')
+                                            .populate({
+                                                path: 'sid',
+                                                select: '_id title image price',
+                                                match: {disable: 0},
+                                                options: {lean: true}
+                                            })
+                                            .lean()
+                                            .exec((err, sideOrder) => {
+
+                                                console.log('Log Side Order', err, sideOrder);
                                                 mo.did = mo._id;
                                                 mo.title = mo.mid.title;
                                                 mo.image = mo.mid.image;
@@ -135,52 +154,40 @@ const OrderController = () => {
                                                 mo.total = mo.price;
                                                 mo.side = [];
 
-                                                // mo.side.push(1);
+                                                sideOrder.map(so => {
+                                                    so.title = so.sid.title;
+                                                    so.image = so.sid.image;
+                                                    so.price = so.sid.price;
+                                                    so.total = so.amount * so.sid.price;
 
-                                                const promise = SideOrder.find()
-                                                    .where('oid').equals(mo.oid)
-                                                    .where('amount').gt(0)
-                                                    .select('_id sid amount')
-                                                    // .exists('sid')
-                                                    .sort('-_id')
-                                                    .populate({
-                                                        path: 'sid',
-                                                        select: '_id title image price',
-                                                        match: {disable: 0},
-                                                        options: {lean: true}
-                                                    })
-                                                    .lean()
-                                                    .exec();
-
-                                                // console.log(sideOrder);
-                                                promise.then((sideOrder) => {
-                                                    sideOrder.map(so => {
-                                                        so.title = so.sid.title;
-                                                        so.image = so.sid.image;
-                                                        so.price = so.sid.price;
-                                                        so.total = so.amount * so.sid.price;
-                                                        // if (so.did == mo.did) {
-                                                        //     mealOrder.orders.total += so.sid.price * so.amount;
-                                                        // }
-                                                        so.sid = so._id;
-                                                        delete so._id;
+                                                    so.sid = so._id;
+                                                    delete so._id;
+                                                    if (mo.did == so.did) {
                                                         mo.side.push(so);
-                                                    });
+                                                        // mealOrder.orders.total += so.sid.price * so.amount;
+                                                        delete so.did;
+                                                    }
                                                 });
 
                                                 delete mo._id;
                                                 delete mo.oid;
 
                                                 mealOrder.orders.push(mo);
-                                            });
-                                            res.json({success: mealOrder});
-                                        }
-                                    }
-                                );
-                        }
 
+                                                console.log('Test', moLength, moCount);
+
+                                                if (moLength == moCount) res.json({success: mealOrder});
+                                                else moCount++;
+
+                                            });
+
+                                    });
+
+                                }
+                            });
                     }
-                );
+                });
+
         },
 
         deleteItem: (req, res) => {

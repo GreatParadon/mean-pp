@@ -3,6 +3,8 @@ import UserController from '../controllers/UserController';
 import BannerController from '../controllers/BannerController';
 import SideController from '../controllers/SideController';
 import OrderController from '../controllers/OrderController';
+import Main from '../models/Main';
+import Side from '../models/Side';
 
 const router = express.Router();
 
@@ -46,6 +48,47 @@ router.post('/getcart', OrderController.getCart);
 // Get Banner
 router.get('/getbanner', BannerController.getBanner);
 
+router.get('/menu', (req, res) => {
+    Main.find()
+        .select('title detail producer information utility price image dish_image')
+        .lean()
+        .exec((err, mains) => {
+            if (err) {
+                return res.json({error: 'No food'});
+            } else {
+                mains.map(main => {
+                    main.detail = `${main.detail} ${main.producer} ${main.information} ${main.utility}`;
+                    delete main.detail;
+                    delete main.producer;
+                    delete main.information;
+                    delete main.utility;
+                });
+
+                return res.json({menu: mains});
+            }
+        });
+});
+
+router.get('/sidedish', (req, res) => {
+    Side.find()
+        .select('title detail producer information utility price image dish_image')
+        .lean()
+        .exec((err, sidedishes) => {
+            if (err) {
+                return res.json({error: 'No food'});
+            } else {
+                sidedishes.map(sidedish => {
+                    sidedish.detail = `${sidedish.detail} ${sidedish.producer} ${sidedish.information} ${sidedish.utility}`;
+                    delete sidedish.detail;
+                    delete sidedish.producer;
+                    delete sidedish.information;
+                    delete sidedish.utility;
+                });
+
+                return res.json({menu: sidedishes});
+            }
+        });
+});
 // router.get('/updateuid', UserController.ChangeUid);
 // router.get('/dump', UserController.dump);
 // router.get('/collection', UserController.collection);

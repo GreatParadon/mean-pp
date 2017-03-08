@@ -116,6 +116,75 @@ const UserController = () => {
                     else
                         res.json({uid: user._id});
                 });
+        },
+
+        checkoutCart: (req, res) => {
+            const data = req.body;
+
+                //Check Guest
+                var param = [], query;
+                if (data.pin) {
+                    if (data.uid) {
+                        param = [data.uid, data.pin];
+                        query = 'uid = ? AND pin = ?';
+                    } else if (data.code) {
+                        param = [data.code, data.pin];
+                        query = 'code = ? AND pin = ?';
+                    }
+                } else {
+                    param = [data.uid];
+                    query = 'uid = ?';
+                }
+
+                User.findOne()
+                    .select('uid firstname lastname')
+                    .exec({
+
+                    })
+
+                connection.query('SELECT uid,firstname,lastname FROM user WHERE ' + query,
+                    param,
+                    function (err, rows, fields) {
+                        if (rows[0]) {
+                            connection.query('UPDATE meal_order SET ? WHERE uid = ? AND type = 0',
+                                [{
+                                    buyer: (data.buyer ? data.buyer : rows[0].firstname + ' ' + rows[0].lastname),
+                                    type: 1
+                                }, rows[0].uid],
+                                function (err, results) {
+                                    // if (results.affectedRows > 0) {
+                                    //Feed Order
+                                    getCart(rows[0].uid, 1, function (json) {
+                                        connection.commit(function (err) {
+                                            if (err) {
+                                                console.log(err);
+                                                return connection.rollback(function () {
+                                                    res.json({"error": "Checking out failed"});
+                                                });
+                                            } else {
+                                                json.buyer = (data.buyer ? data.buyer : rows[0].firstname + ' ' + rows[0].lastname);
+                                                // feedOrder(json);
+                                                writeUserData(json);
+                                                res.json({"success": "true"});
+                                            }
+                                        });
+                                    }, function (json) {
+                                        writeUserData(json);
+                                        res.send(JSON.stringify(json));
+                                    });
+
+                                    // } else {
+                                    //     console.log(err);
+                                    //     return connection.rollback(function () {
+                                    //         res.json({"error": "Checking out failed2"});
+                                    //     });
+                                    // }
+                                });
+                        } else {
+                            console.log(err);
+                            res.json({"error": "Checking out failed3"});
+                        }
+                    });
         }
 
 

@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 const Schema = mongoose.Schema;
 
 const SideOrderSchema = new Schema({
-    did: String,
+    did: {type: String, ref: 'MainOrder'},
     oid: {type: String, ref: 'MealOrder'},
     sid: {type: String, ref: 'Side'},
     amount: Number

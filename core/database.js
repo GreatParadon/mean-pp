@@ -27,4 +27,7 @@ mongoose.connect(dbFullUrl, (err) => {
         console.log(chalk.green('DB Connected'));
     }
 });
-mongoose.connection;
+
+const db = mongoose.connection;
+
+module.exports = db;
